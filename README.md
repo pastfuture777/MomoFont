@@ -1,7 +1,7 @@
 ![MomoFont](img/MomoFontPreview.png)
 
 # MomoFont
-An English Font created by PastFuture. Letters originally written by Momo.
+An English Font created by PastFuture. Letters originally written by Momo Shih.
 
 ## 簡介 / Introduction
 
