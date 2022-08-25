@@ -5,12 +5,12 @@ An English Font created by PastFuture. Letters originally written by Momo Shih.
 
 ## 簡介 / Introduction
 
-MomoFont 是由 [@mo_what_](https://www.instagram.com/mo_what_/) 於2020年5月書寫，[PastFuture](https://github.com/pastfuture777) 於2022年製作。
+MomoFont 是由 [@mo_what_](https://www.instagram.com/mo_what_/) 於2020年5月書寫，[PastFuture](https://github.com/pastfuture777) 製作。
 此後因課業繁重屢未能完成專案，直至2022年再次因Omicron新冠肺炎疫情致使遠距教學，方有時間完成。
 本字體採用了[守寫字](https://www.writes.com.tw/)、[Calligraphr](https://www.calligraphr.com/) 與 [BirdFont](https://birdfont.org/) 製作。
 
-MomoFont is a font hand-written by [@mo_what_](https://www.instagram.com/mo_what_/) in May, 2020, and asked [PastFuture](https://github.com/pastfuture777) to make the font.
-However, due to the massive load of curriculum pressure, not until the stroke of COVID-19 Omicron in 2022, which led to online classes can this project finally be finished.
+MomoFont is a font hand-written by [@mo_what_](https://www.instagram.com/mo_what_/) in May, 2020, and created by [PastFuture](https://github.com/pastfuture777).
+However, due to the massive load of curriculum pressure, not until the stroke of COVID-19 Omicron in 2022, which led to online classes could this project finally be finished.
 This project is finished by using the following websites or apps: [守寫字](https://www.writes.com.tw/), [Calligraphr](https://www.calligraphr.com/) and [BirdFont](https://birdfont.org/).
 
 ## 最新版本與下載方式 / Newest Version and Download Method
