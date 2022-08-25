@@ -5,7 +5,7 @@ An English Font created by PastFuture. Letters originally written by Momo Shih.
 
 ## 簡介 / Introduction
 
-MomoFont 是由 [@mo_what_](https://www.instagram.com/mo_what_/) 於2020年5月委由 [PastFuture](https://github.com/pastfuture777) 所製作。
+MomoFont 是由 [@mo_what_](https://www.instagram.com/mo_what_/) 於2020年5月書寫，[PastFuture](https://github.com/pastfuture777) 於2022年製作。
 此後因課業繁重屢未能完成專案，直至2022年再次因Omicron新冠肺炎疫情致使遠距教學，方有時間完成。
 本字體採用了[守寫字](https://www.writes.com.tw/)、[Calligraphr](https://www.calligraphr.com/) 與 [BirdFont](https://birdfont.org/) 製作。
 
